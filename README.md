@@ -30,7 +30,7 @@ conda activate chatbot
 
 1. Set up your OpenAI API key:
 - Open the `Config` class in the main script.
-- Replace `"API key` with your actual OpenAI API key.
+- Replace `"Your Api Key" ` with your actual OpenAI API key.
 
 2. Ensure you have the necessary folders:
 - Create a folder named `Rag_document` in the project directory for RAG functionality.
