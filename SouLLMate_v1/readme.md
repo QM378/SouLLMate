@@ -73,7 +73,7 @@ This application is for educational and demonstration purposes only. It is not a
 
 ## License
 
-[Insert your chosen license here]
+[GPL-3.0 license]
 
 ## Contact
 
