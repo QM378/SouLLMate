@@ -77,7 +77,7 @@ This application is for educational and demonstration purposes only. It is not a
 
 ## Contact
 
-For support or inquiries, please contact [Your Contact Information].
+For support or inquiries, please contact [guoqm07@gmail.com, tangjw91@gmail.com].
 
 ## Acknowledgments
 
