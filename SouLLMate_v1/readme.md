@@ -73,7 +73,7 @@ This application is for educational and demonstration purposes only. It is not a
 
 ## License
 
-[GPL-3.0 license]
+[https://github.com/QM378/SouLLMate/blob/main/LICENSE]
 
 ## Contact
 
